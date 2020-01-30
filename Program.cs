@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace venda_snack
+namespace snacks
 {
     class Program
     {
